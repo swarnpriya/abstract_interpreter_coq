@@ -105,7 +105,7 @@ BEEPL=\
       BeeTypes.v BeePL_values.v BeePL_add_prog.v 
 
 # While lang for abstract interpretation 
-WHILELANG=Wlang.v
+WHILELANG=Wlang.v Sign.v Abstract.v
 
 # Parts common to the front-ends and the back-end (in common/)
 
